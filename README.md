@@ -12,6 +12,9 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 [Yamnet Model](https://www.kaggle.com/models/google/yamnet/TensorFlow2/yamnet/1)
 
+[Dataset Sources](https://www.kaggle.com/datasets)
+
+
 
 # Projects :
 
@@ -28,6 +31,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 2. [Bird CLEF 2024](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Bird-CLEF-2024)
+
 
 
 *Descriptions* : The project aims to identify bird species using sound data and recognize them by their calls in recordings.
@@ -63,6 +67,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 5. [Heart-Beart Sounds](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Heartbeat-Sounds-Audio)
 
 
+
 *Descriptions* : The project aims to analyze the given sound data and classify it as either normal or not normal hearbeat audio.
 
 *Technologies Used* : The notebook uses Yamnet Model and Neural Network with Kfold Validation.
@@ -72,6 +77,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 6. [Lung Sounds](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Lung-Sounds-Audio)
+
 
 
 *Descriptions* : The project aims to analyze the given sound data and detect pulmonary diseases . 
