@@ -101,7 +101,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 8. [Child Mind Institute Problematic Internet Use](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Child%20Mind%20Institute%20Problematic%20Internet%20Use)
 
 
-*Descriptions* : The project aims to analyzes children's physical activity and fitness data to identify early signs of problematic internet use . 
+*Descriptions* : The project aims to analyzes children's physical activity and fitness data to identify early signs of problematic internet use.
 
 *Technologies Used* : The notebook uses Neural Network.
 
