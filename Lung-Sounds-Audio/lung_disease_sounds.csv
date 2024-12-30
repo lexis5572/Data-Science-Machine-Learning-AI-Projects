@@ -1,0 +1,328 @@
+filename,prediction,confidence
+"EP76_N,N,A L U,31,M.wav",Animal,0.111294575
+"EP93_N,N,P R M,75,M.wav",Noise,0.16530004
+"BP13_Heart Failure,C,P L L,55,M.wav","Heart sounds, heartbeat",0.26357862
+"BP23_Lung Fibrosis,Crep,P R L ,50,M.wav","Heart sounds, heartbeat",0.39551312
+"EP67_heart failure,Crep,P R L ,24,F.wav","Heart sounds, heartbeat",0.3954238
+"EP79_asthma,E W,A R U,46,M.wav",Speech,0.28935787
+"BP24_heart failure,Crep,P R L ,76,F.wav",Stomach rumble,0.49298128
+"DP32_N,N,A R L,30,M.wav",Vehicle,0.22795956
+"DP83_N,N,A R U,18,F.wav",Vehicle,0.15481406
+"EP58_asthma,E W,P L M,40,M.wav","Outside, rural or natural",0.13584813
+"BP50_N,N,P R L ,27,M.wav",Sound effect,0.25788826
+"DP36_pneumonia,Crep,P R M,36,F.wav",Animal,0.35312527
+"EP21_BRON,Crep,P R L ,20,M.wav","Heart sounds, heartbeat",0.34912187
+"BP69_pneumonia,Bronchial,P R L ,64,M.wav","Heart sounds, heartbeat",0.34732854
+"BP16_heart failure,C,P R U,56,M.wav","Heart sounds, heartbeat",0.39935526
+"EP44_asthma,E W,P R U,40,M.wav",Animal,0.1468234
+"DP97_Asthma,E W,P R U,24,M.wav",Vehicle,0.1847784
+"EP94_N,N,P L L,24,M.wav",Eruption,0.30658454
+"BP109_N,N,P L M,26,M.wav","Heart sounds, heartbeat",0.374319
+"DP25_copd,E W,P L L,76,M.wav",Gurgling,0.13723698
+"DP105_Lung Fibrosis,Crep,A U R,44,M.wav",Throbbing,0.1518235
+"EP64_asthma,E W,P L U,60,M.wav",Speech,0.13786258
+"BP65_asthma,E W,P R L ,60,F.wav",Eruption,0.23618084
+"BP41_pneumonia,Crep,P R M,51,M.wav","Heart sounds, heartbeat",0.5543864
+"EP106_Asthma,E W,P L U,45,F.wav",Speech,0.22678366
+"DP103_N,N,P R U,81,F.wav",Vehicle,0.20613009
+"BP38_Asthma,E W,P R M,38,M.wav",Animal,0.5598534
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",Stomach rumble,0.30985183
+"BP45_heart failure,Crep,P R L ,30,M.wav",Eruption,0.32362285
+"BP110_COPD,E W,P L L,62,M.wav",Gurgling,0.30359718
+"EP66_heart failure,Crep,P R L ,43,M.wav",Wind,0.13242683
+"DP24_heart failure,Crep,P R L ,76,F.wav",Stomach rumble,0.43605134
+"EP52_Lung Fibrosis,Crep,P L L,76,F.wav",Vehicle,0.1723451
+"DP107_Asthma,E W,P L U,59,F.wav",Speech,0.17269689
+"BP37_pneumonia,Crep,A R L,70,F.wav",Music,0.32422268
+"EP110_COPD,E W,P L L,62,M.wav",Animal,0.49984738
+"DP28_BRON,Crep,P L U,68,F.wav","Heart sounds, heartbeat",0.28544274
+"DP10_Asthma,E W,P R U,59,M.wav",Gurgling,0.25381956
+"DP47_asthma,E W,P L M,60,M.wav",Rumble,0.1841909
+"DP84_N,N,A R U,65,F.wav",Stomach rumble,0.30824625
+"EP49_N,N,P R M,21,M.wav",Wind,0.14469434
+"DP40_heart failure,Crep,A R M,26,M.wav",Animal,0.22025724
+"BP39_heart failure,Crep,P R L ,67,M.wav","Heart sounds, heartbeat",0.4128133
+"DP46_asthma,E W,P L U,41,F.wav",Animal,0.4525124
+"EP82_N,N,P L U,38,M.wav",Throbbing,0.15898097
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav","Heart sounds, heartbeat",0.24426372
+"DP55_asthma,E W,P R U,72,F.wav",Gurgling,0.26537484
+"EP41_pneumonia,Crep,P R M,51,M.wav",Throbbing,0.2194201
+"BP22_BRON,Crep,P R U,24,M.wav",Vehicle,0.25541717
+"BP18_pneumonia,C,P R U,57,M.wav","Heart sounds, heartbeat",0.7109701
+"BP68_asthma,E W,P R L ,21,F.wav",Eruption,0.25891325
+"EP17_COPD,E W,A R M,57,M.wav","Outside, rural or natural",0.15146668
+"BP63_COPD,E W,P R L ,58,F.wav","Heart sounds, heartbeat",0.21233077
+"BP67_heart failure,Crep,P R L ,24,F.wav","Heart sounds, heartbeat",0.5651428
+"DP13_Heart Failure,C,P L L,55,M.wav",Stomach rumble,0.24169241
+"BP77_Asthma,E W,A R L,40,M.wav","Heart sounds, heartbeat",0.80197364
+"DP92_N,N,P L L ,43,M.wav",Vehicle,0.28004667
+"BP35_Asthma,E W,A R L,38,M.wav","Heart sounds, heartbeat",0.45939207
+"EP78_Asthma,E W,P R M,20,M.wav",Animal,0.34298807
+"DP86_N,N,P R U,68,F.wav",Throbbing,0.10056234
+"DP109_N,N,P L M,26,M.wav",Vehicle,0.22151752
+"DP20_Asthma and lung fibrosis,C,A R M,90,M.wav",Vehicle,0.20003782
+"EP3_Asthma,I E W,P L L R,50,F.wav",Animal,0.15276235
+"EP30_N,N,P R M,18,F.wav",Vehicle,0.17116
+"BP59_heart failure,Crep,P R L ,83,F.wav",Vehicle,0.17945512
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav","Heart sounds, heartbeat",0.6676704
+"DP87_N,N,P R M,72,M.wav",Stomach rumble,0.11348406
+"EP85_N,N,A R U,33,M.wav",Wind,0.27858648
+"DP82_N,N,P L U,38,M.wav",Clip-clop,0.21302335
+"BP70_N,N,P L U,52,F.wav",Sound effect,0.21885505
+"EP57_COPD,E W,P R L ,42,M.wav","Outside, rural or natural",0.13282603
+"EP99_N,N,P R M,50,M.wav",Throbbing,0.38684034
+"DP61_COPD,E W,P R L ,53,M.wav",Stomach rumble,0.14916216
+"DP8_Plueral Effusion,I C B,P L L,70,M.wav",Stomach rumble,0.34764373
+"DP95_N,N,P L M,18,M.wav",Vehicle,0.12906723
+"DP85_N,N,A R U,33,M.wav","Outside, rural or natural",0.12453192
+"BP71_N,N,P R U,36,M.wav","Heart sounds, heartbeat",0.86522025
+"EP46_asthma,E W,P L U,41,F.wav",Animal,0.3801811
+"BP81_N,N,P L U,33,M.wav","Heart sounds, heartbeat",0.4764061
+"BP60_heart failure,Crep,P L L,83,F.wav",Stomach rumble,0.5537561
+"BP106_Asthma,E W,P L U,45,F.wav","Heart sounds, heartbeat",0.16847442
+"BP93_N,N,P R M,75,M.wav","Heart sounds, heartbeat",0.22497952
+"EP6_Plueral Effusion,I C B,P L R,81,M.wav","Heart sounds, heartbeat",0.29897755
+"DP14_Heart Failure,C,A R M,54,M.wav",Vehicle,0.25425926
+"EP62_COPD,E W,P L M,53,M.wav",Wind,0.12750207
+"BP55_asthma,E W,P R U,72,F.wav",Gurgling,0.30400354
+"EP101_Asthma,E W,P L M,12,F.wav",Animal,0.20336674
+"EP108_COPD,E W,P R L ,63,M.wav",Throbbing,0.14600074
+"DP56_asthma,E W,P R M,56,F.wav",Clip-clop,0.1764278
+"BP53_asthma,E W,P R M,72,F.wav",Vehicle,0.15814562
+"DP17_COPD,E W,A R M,57,M.wav",Animal,0.24155718
+"BP97_Asthma,E W,P R U,24,M.wav","Heart sounds, heartbeat",0.36977708
+"DP104_Asthma,E W,P L U,45,F.wav",Vehicle,0.24385338
+"DP27_asthma,E W,P R M,53,F.wav",Gurgling,0.22492139
+"EP43_asthma,E W,P L M,15,M.wav",Animal,0.5008482
+"DP1_Asthma,I E W,P L L,70,M.wav",Stomach rumble,0.32564822
+"DP68_asthma,E W,P R L ,21,F.wav",Vehicle,0.22197059
+"EP56_asthma,E W,P R M,56,F.wav","Heart sounds, heartbeat",0.24448496
+"DP72_N,N,P R U,24,F.wav",Stomach rumble,0.30640706
+"BP2_Asthma,E W,P L L R,52,F.wav","Heart sounds, heartbeat",0.42241096
+"EP39_heart failure,Crep,P R L ,67,M.wav","Heart sounds, heartbeat",0.3257178
+"DP108_COPD,E W,P R L ,63,M.wav",Vehicle,0.13884681
+"DP29_heart failure,Crep,P L L,57,M.wav",Frog,0.27435553
+"EP31_N,N,P L M,27,F.wav",Throbbing,0.17443141
+"EP29_heart failure,Crep,P L L,57,M.wav",Animal,0.3138939
+"DP26_Lung Fibrosis,Crep,P,90,F.wav","Roaring cats (lions, tigers)",0.27682424
+"DP22_BRON,Crep,P R U,24,M.wav",Vehicle,0.22267717
+"EP102_N,N,P L L,41,M.wav","Heart sounds, heartbeat",0.24524832
+"EP95_N,N,P L M,18,M.wav",Throbbing,0.20242806
+"DP73_N,N,P L L,32,M.wav",Stomach rumble,0.20209436
+"BP92_N,N,P L L ,43,M.wav","Heart sounds, heartbeat",0.21492212
+"BP101_Asthma,E W,P L M,12,F.wav",Gurgling,0.21403596
+"EP84_N,N,A R U,65,F.wav","Outside, rural or natural",0.12529388
+"BP9_Asthma,E W,P R L ,59,M.wav",Gurgling,0.29393345
+"BP33_Asthma,E W,P R M,43,F.wav",Animal,0.13153566
+"EP63_COPD,E W,P R L ,58,F.wav","Outside, rural or natural",0.13531257
+"DP67_heart failure,Crep,P R L ,24,F.wav",Stomach rumble,0.47588384
+"BP21_BRON,Crep,P R L ,20,M.wav","Heart sounds, heartbeat",0.63600135
+"DP58_asthma,E W,P L M,40,M.wav",Stomach rumble,0.36131227
+"DP30_N,N,P R M,18,F.wav",Vehicle,0.23530018
+"BP12_Asthma,E W,P L L,50,F.wav","Heart sounds, heartbeat",0.4513557
+"BP26_Lung Fibrosis,Crep,P,90,F.wav","Outside, rural or natural",0.10973119
+"EP87_N,N,P R M,72,M.wav",Throbbing,0.12393721
+"DP6_Plueral Effusion,I C B,P L R,81,M.wav",Stomach rumble,0.5336865
+"DP71_N,N,P R U,36,M.wav",Stomach rumble,0.22956166
+"DP39_heart failure,Crep,P R L ,67,M.wav",Stomach rumble,0.25704932
+"BP44_asthma,E W,P R U,40,M.wav","Heart sounds, heartbeat",0.19093691
+"DP69_pneumonia,Bronchial,P R L ,64,M.wav",Stomach rumble,0.23741879
+"DP44_asthma,E W,P R U,40,M.wav",Animal,0.12753479
+"BP20_Asthma and lung fibrosis,C,A R M,90,M.wav","Heart sounds, heartbeat",0.6238802
+"DP23_Lung Fibrosis,Crep,P R L ,50,M.wav",Gurgling,0.20667799
+"EP74_N,N,P R M,74,M.wav",Wind noise (microphone),0.17165294
+"BP83_N,N,A R U,18,F.wav","Heart sounds, heartbeat",0.37906346
+"BP74_N,N,P R M,74,M.wav","Heart sounds, heartbeat",0.51979667
+"BP61_COPD,E W,P R L ,53,M.wav",Eruption,0.21633501
+"DP74_N,N,P R M,74,M.wav",Stomach rumble,0.15469605
+"EP83_N,N,A R U,18,F.wav",Wind,0.49089295
+"EP88_N,N,A R U,29,M.wav","Heart sounds, heartbeat",0.39365217
+"EP45_heart failure,Crep,P R L ,30,M.wav",Wind noise (microphone),0.13653357
+"DP19_heart failure,C,P R U,70,F.wav",Stomach rumble,0.7041473
+"DP38_Asthma,E W,P R M,38,M.wav",Animal,0.6212274
+"DP43_asthma,E W,P L M,15,M.wav",Animal,0.4826116
+"EP60_heart failure,Crep,P L L,83,F.wav",Stomach rumble,0.18254758
+"DP54_heart failure,Crep,P R L ,73,F.wav",Vehicle,0.31568167
+"EP109_N,N,P L M,26,M.wav","Heart sounds, heartbeat",0.15584171
+"EP61_COPD,E W,P R L ,53,M.wav","Outside, rural or natural",0.117181465
+"BP28_BRON,Crep,P L U,68,F.wav","Heart sounds, heartbeat",0.92845225
+"BP29_heart failure,Crep,P L L,57,M.wav","Heart sounds, heartbeat",0.39185816
+"EP72_N,N,P R U,24,F.wav","Outside, rural or natural",0.10608351
+"EP54_heart failure,Crep,P R L ,73,F.wav",Throbbing,0.26805186
+"DP81_N,N,P L U,33,M.wav",Stomach rumble,0.3317084
+"DP34_heart failure,Crep,P R M,78,F.wav","Heart sounds, heartbeat",0.18398899
+"DP48_N,N,P L U,31,M.wav",Vehicle,0.19492324
+"EP20_Asthma and lung fibrosis,C,A R M,90,M.wav",Wind,0.23852158
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",Animal,0.19941731
+"EP10_Asthma,E W,P R U,59,M.wav",Speech,0.13276179
+"BP86_N,N,P R U,68,F.wav","Heart sounds, heartbeat",0.69066924
+"BP64_asthma,E W,P L U,60,M.wav",Stomach rumble,0.55993277
+"EP90_heart failure,Crep,P L M,74,F.wav","Heart sounds, heartbeat",0.20268284
+"BP85_N,N,A R U,33,M.wav","Heart sounds, heartbeat",0.38353154
+"BP87_N,N,P R M,72,M.wav","Heart sounds, heartbeat",0.35800406
+"EP89_N,N,P L M,70,M.wav",Throbbing,0.52174336
+"BP99_N,N,P R M,50,M.wav","Heart sounds, heartbeat",0.6015039
+"EP47_asthma,E W,P L M,60,M.wav",Artillery fire,0.15390736
+"EP28_BRON,Crep,P L U,68,F.wav","Heart sounds, heartbeat",0.2454513
+"EP105_Lung Fibrosis,Crep,A U R,44,M.wav","Heart sounds, heartbeat",0.12454898
+"EP55_asthma,E W,P R U,72,F.wav",Clip-clop,0.18824488
+"DP64_asthma,E W,P L U,60,M.wav","Roaring cats (lions, tigers)",0.45104304
+"EP16_heart failure,C,P R U,56,M.wav",Artillery fire,0.25433102
+"BP3_Asthma,I E W,P L L R,50,F.wav","Heart sounds, heartbeat",0.52706766
+"BP51_N,N,P L M,30,M.wav",Heart murmur,0.27260455
+"DP57_COPD,E W,P R L ,42,M.wav",Animal,0.20189637
+"EP38_Asthma,E W,P R M,38,M.wav",Animal,0.20784745
+"EP111_COPD,E W,P R L ,51,M.wav",Clip-clop,0.12387695
+"DP80_asthma,E W,A L U,38,M.wav",Animal,0.18935199
+"EP91_asthma,E W,P R U,43,F.wav",Animal,0.20082909
+"DP33_Asthma,E W,P R M,43,F.wav",Animal,0.3667145
+"DP110_COPD,E W,P L L,62,M.wav",Animal,0.5697164
+"DP59_heart failure,Crep,P R L ,83,F.wav",Stomach rumble,0.22178622
+"EP86_N,N,P R U,68,F.wav",Throbbing,0.47640228
+"BP84_N,N,A R U,65,F.wav","Heart sounds, heartbeat",0.4427809
+"EP96_N,N,P R L ,66,F.wav","Heart sounds, heartbeat",0.22931921
+"EP33_Asthma,E W,P R M,43,F.wav",Animal,0.15275216
+"BP94_N,N,P L L,24,M.wav","Heart sounds, heartbeat",0.59053886
+"EP70_N,N,P L U,52,F.wav",Wind,0.263813
+"EP32_N,N,A R L,30,M.wav",Wind noise (microphone),0.2070486
+"DP41_pneumonia,Crep,P R M,51,M.wav",Animal,0.17772074
+"DP79_asthma,E W,A R U,46,M.wav",Animal,0.26955914
+"BP95_N,N,P L M,18,M.wav","Heart sounds, heartbeat",0.4308292
+"EP27_asthma,E W,P R M,53,F.wav","Heart sounds, heartbeat",0.12350192
+"DP65_asthma,E W,P R L ,60,F.wav",Stomach rumble,0.15725012
+"DP12_Asthma,E W,P L L,50,F.wav",Gurgling,0.2807814
+"BP72_N,N,P R U,24,F.wav","Heart sounds, heartbeat",0.39872515
+"DP15_Asthma,E W,P R U,49,F.wav",Stomach rumble,0.30716762
+"EP75_N,N,P L U,73,F.wav","Heart sounds, heartbeat",0.3035194
+"BP17_COPD,E W,A R M,57,M.wav","Heart sounds, heartbeat",0.4805266
+"EP19_heart failure,C,P R U,70,F.wav","Heart sounds, heartbeat",0.30452207
+"DP42_heart failure,Crep,P L L,56,M.wav",Vehicle,0.13667734
+"DP70_N,N,P L U,52,F.wav",Vehicle,0.30853775
+"DP112_N,N,P L M,30,M.wav",Rumble,0.12657161
+"DP76_N,N,A L U,31,M.wav",Throbbing,0.2438291
+"DP45_heart failure,Crep,P R L ,30,M.wav",Gurgling,0.28966478
+"EP73_N,N,P L L,32,M.wav","Heart sounds, heartbeat",0.232954
+"BP27_asthma,E W,P R M,53,F.wav","Heart sounds, heartbeat",0.53796095
+"EP69_pneumonia,Bronchial,P R L ,64,M.wav","Heart sounds, heartbeat",0.10725438
+"BP36_pneumonia,Crep,P R M,36,F.wav",Stomach rumble,0.49965948
+"BP19_heart failure,C,P R U,70,F.wav","Heart sounds, heartbeat",0.43624353
+"EP92_N,N,P L L ,43,M.wav",Throbbing,0.16520116
+"DP53_asthma,E W,P R M,72,F.wav",Stomach rumble,0.13820261
+"EP25_copd,E W,P L L,76,M.wav","Livestock, farm animals, working animals",0.3334109
+"DP37_pneumonia,Crep,A R L,70,F.wav",Gurgling,0.14174545
+"DP9_Asthma,E W,P R L ,59,M.wav",Gurgling,0.29393345
+"BP11_Heart Failure,C,P L L,53,M.wav","Heart sounds, heartbeat",0.4173015
+"EP104_Asthma,E W,P L U,45,F.wav",Wind noise (microphone),0.20084678
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav","Heart sounds, heartbeat",0.2663165
+"BP88_N,N,A R U,29,M.wav","Heart sounds, heartbeat",0.65995944
+"DP93_N,N,P R M,75,M.wav",Vehicle,0.34515882
+"BP66_heart failure,Crep,P R L ,43,M.wav","Heart sounds, heartbeat",0.27536848
+"BP58_asthma,E W,P L M,40,M.wav","Heart sounds, heartbeat",0.615327
+"DP77_Asthma,E W,A R L,40,M.wav",Animal,0.28248915
+"BP52_Lung Fibrosis,Crep,P L L,76,F.wav",Eruption,0.39340436
+"BP40_heart failure,Crep,A R M,26,M.wav",Stomach rumble,0.542617
+"BP31_N,N,P L M,27,F.wav","Heart sounds, heartbeat",0.5951989
+"EP36_pneumonia,Crep,P R M,36,F.wav",Animal,0.30046552
+"BP15_Asthma,E W,P R U,49,F.wav",Stomach rumble,0.2120204
+"BP73_N,N,P L L,32,M.wav","Heart sounds, heartbeat",0.4027675
+"EP71_N,N,P R U,36,M.wav","Heart sounds, heartbeat",0.22651683
+"BP105_Lung Fibrosis,Crep,A U R,44,M.wav","Heart sounds, heartbeat",0.81376785
+"EP51_N,N,P L M,30,M.wav","Outside, rural or natural",0.11346154
+"EP42_heart failure,Crep,P L L,56,M.wav","Boat, Water vehicle",0.22462015
+"BP89_N,N,P L M,70,M.wav","Heart sounds, heartbeat",0.77660865
+"BP56_asthma,E W,P R M,56,F.wav","Heart sounds, heartbeat",0.88467836
+"BP108_COPD,E W,P R L ,63,M.wav","Heart sounds, heartbeat",0.19090809
+"DP106_Asthma,E W,P L U,45,F.wav",Speech,0.31340474
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",Explosion,0.18208624
+"BP14_Heart Failure,C,A R M,54,M.wav",Gurgling,0.21784858
+"DP62_COPD,E W,P L M,53,M.wav",Stomach rumble,0.1796684
+"DP91_asthma,E W,P R U,43,F.wav",Animal,0.17698729
+"BP25_copd,E W,P L L,76,M.wav","Heart sounds, heartbeat",0.18254709
+"BP98_N,N,P L L,53,M.wav","Heart sounds, heartbeat",0.35675526
+"BP104_Asthma,E W,P L U,45,F.wav",Eruption,0.19831063
+"BP103_N,N,P R U,81,F.wav","Heart sounds, heartbeat",0.28756174
+"BP57_COPD,E W,P R L ,42,M.wav","Heart sounds, heartbeat",0.33008748
+"EP40_heart failure,Crep,A R M,26,M.wav",Wind noise (microphone),0.20593451
+"EP18_pneumonia,C,P R U,57,M.wav","Heart sounds, heartbeat",0.3258177
+"EP23_Lung Fibrosis,Crep,P R L ,50,M.wav","Heart sounds, heartbeat",0.13787769
+"EP77_Asthma,E W,A R L,40,M.wav",Animal,0.111294575
+"EP100_N,N,P R M,70,F.wav","Heart sounds, heartbeat",0.64003146
+"DP90_heart failure,Crep,P L M,74,F.wav",Stomach rumble,0.657672
+"DP101_Asthma,E W,P L M,12,F.wav",Animal,0.5211171
+"DP60_heart failure,Crep,P L L,83,F.wav",Stomach rumble,0.3406187
+"EP107_Asthma,E W,P L U,59,F.wav",Artillery fire,0.24828486
+"DP51_N,N,P L M,30,M.wav",Stomach rumble,0.2572268
+"EP48_N,N,P L U,31,M.wav",Explosion,0.19287893
+"BP46_asthma,E W,P L U,41,F.wav",Explosion,0.17021547
+"EP35_Asthma,E W,A R L,38,M.wav","Boat, Water vehicle",0.15805556
+"BP82_N,N,P L U,38,M.wav","Heart sounds, heartbeat",0.5867435
+"DP63_COPD,E W,P R L ,58,F.wav",Vehicle,0.21461909
+"BP102_N,N,P L L,41,M.wav","Heart sounds, heartbeat",0.6377623
+"BP96_N,N,P R L ,66,F.wav","Heart sounds, heartbeat",0.42547005
+"DP31_N,N,P L M,27,F.wav",Explosion,0.1274689
+"BP75_N,N,P L U,73,F.wav","Heart sounds, heartbeat",0.50474167
+"DP18_pneumonia,C,P R U,57,M.wav",Horse,0.1785567
+"EP68_asthma,E W,P R L ,21,F.wav",Wind noise (microphone),0.12907502
+"BP107_Asthma,E W,P L U,59,F.wav","Heart sounds, heartbeat",0.4653798
+"EP15_Asthma,E W,P R U,49,F.wav",Animal,0.17496815
+"BP80_asthma,E W,A L U,38,M.wav",Explosion,0.19961166
+"DP16_heart failure,C,P R U,56,M.wav",Stomach rumble,0.26028156
+"DP50_N,N,P R L ,27,M.wav",Stomach rumble,0.30537242
+"EP98_N,N,P L L,53,M.wav","Outside, rural or natural",0.20479873
+"DP49_N,N,P R M,21,M.wav",Vehicle,0.21452571
+"DP11_Heart Failure,C,P L L,53,M.wav",Stomach rumble,0.65911233
+"DP100_N,N,P R M,70,F.wav",Animal,0.5211171
+"DP21_BRON,Crep,P R L ,20,M.wav","Heart sounds, heartbeat",0.18585575
+"DP75_N,N,P L U,73,F.wav",Vehicle,0.11211983
+"EP65_asthma,E W,P R L ,60,F.wav",Explosion,0.1872617
+"EP2_Asthma,E W,P L L R,52,F.wav",Explosion,0.10961909
+"DP96_N,N,P R L ,66,F.wav",Stomach rumble,0.23944288
+"DP94_N,N,P L L,24,M.wav","Outside, rural or natural",0.14744762
+"EP34_heart failure,Crep,P R M,78,F.wav","Heart sounds, heartbeat",0.44599268
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",Stomach rumble,0.2715936
+"EP9_Asthma,E W,P R L ,59,M.wav",Animal,0.35552162
+"DP99_N,N,P R M,50,M.wav",Throbbing,0.13275543
+"DP3_Asthma,I E W,P L L R,50,F.wav",Stomach rumble,0.18473123
+"BP47_asthma,E W,P L M,60,M.wav",Sound effect,0.21271288
+"BP91_asthma,E W,P R U,43,F.wav","Heart sounds, heartbeat",0.18407899
+"EP11_Heart Failure,C,P L L,53,M.wav","Heart sounds, heartbeat",0.40347198
+"EP50_N,N,P R L ,27,M.wav",Explosion,0.14413285
+"EP80_asthma,E W,A L U,38,M.wav",Speech,0.35830274
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",Stomach rumble,0.5339936
+"BP79_asthma,E W,A R U,46,M.wav",Stomach rumble,0.51878023
+"BP90_heart failure,Crep,P L M,74,F.wav","Heart sounds, heartbeat",0.58261245
+"DP78_Asthma,E W,P R M,20,M.wav",Animal,0.27342632
+"EP14_Heart Failure,C,A R M,54,M.wav",Animal,0.38993892
+"BP62_COPD,E W,P L M,53,M.wav",Eruption,0.21091351
+"BP100_N,N,P R M,70,F.wav",Gurgling,0.21403596
+"BP78_Asthma,E W,P R M,20,M.wav",Animal,0.23842283
+"DP66_heart failure,Crep,P R L ,43,M.wav","Outside, rural or natural",0.14664939
+"EP1_Asthma,I E W,P L L,70,M.wav","Livestock, farm animals, working animals",0.11153926
+"EP22_BRON,Crep,P R U,24,M.wav",Vehicle,0.33928645
+"BP10_Asthma,E W,P R U,59,M.wav",Gurgling,0.41482583
+"BP1_Asthma,I E W,P L L,70,M.wav","Heart sounds, heartbeat",0.50624675
+"BP49_N,N,P R M,21,M.wav","Heart sounds, heartbeat",0.32303667
+"EP13_Heart Failure,C,P L L,55,M.wav","Heart sounds, heartbeat",0.11054106
+"DP52_Lung Fibrosis,Crep,P L L,76,F.wav",Rumble,0.14536372
+"BP111_COPD,E W,P R L ,51,M.wav",Eruption,0.2646914
+"DP35_Asthma,E W,A R L,38,M.wav",Vehicle,0.45566118
+"BP76_N,N,A L U,31,M.wav","Heart sounds, heartbeat",0.822509
+"BP43_asthma,E W,P L M,15,M.wav",Gurgling,0.137294
+"BP34_heart failure,Crep,P R M,78,F.wav","Heart sounds, heartbeat",0.59052074
+"BP42_heart failure,Crep,P L L,56,M.wav","Heart sounds, heartbeat",0.5088656
+"BP6_Plueral Effusion,I C B,P L R,81,M.wav","Heart sounds, heartbeat",0.7205799
+"BP8_Plueral Effusion,I C B,P L L,70,M.wav","Heart sounds, heartbeat",0.23611222
+"EP24_heart failure,Crep,P R L ,76,F.wav",Animal,0.15592775
+"DP98_N,N,P L L,53,M.wav","Outside, rural or natural",0.14834832
+"BP54_heart failure,Crep,P R L ,73,F.wav","Heart sounds, heartbeat",0.20425579
+"EP112_N,N,P L M,30,M.wav","Heart sounds, heartbeat",0.33527008
+"BP112_N,N,P L M,30,M.wav","Heart sounds, heartbeat",0.8042913
+"EP12_Asthma,E W,P L L,50,F.wav",Throbbing,0.16189842
+"BP48_N,N,P L U,31,M.wav",Eruption,0.31740358
+"DP88_N,N,A R U,29,M.wav",Vehicle,0.35849223
+"DP102_N,N,P L L,41,M.wav",Vehicle,0.114897504
+"DP111_COPD,E W,P R L ,51,M.wav",Gurgling,0.11206452
+"BP30_N,N,P R M,18,F.wav",Sound effect,0.20788889
+"BP32_N,N,A R L,30,M.wav",Eruption,0.26346493
+"EP97_Asthma,E W,P R U,24,M.wav",Explosion,0.1430678
+"EP81_N,N,P L U,33,M.wav",Throbbing,0.16330759
