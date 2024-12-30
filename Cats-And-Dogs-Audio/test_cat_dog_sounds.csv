@@ -1,0 +1,278 @@
+filename,prediction,confidence
+dog_barking_102.wav,Animal,0.41754994
+cat_43.wav,Animal,0.32691395
+dog_barking_29.wav,Chant,0.48536476
+cat_47.wav,Animal,0.69352394
+dog_barking_50.wav,Dog,0.5933039
+dog_barking_83.wav,Dog,0.45791832
+cat_83.wav,"Crying, sobbing",0.3616118
+cat_84.wav,Animal,0.50798196
+cat_129.wav,Speech,0.43334952
+cat_74.wav,Animal,0.6339689
+cat_124.wav,Animal,0.99809813
+dog_barking_30.wav,"Domestic animals, pets",0.5821309
+cat_89.wav,Animal,0.9273327
+cat_52.wav,"Domestic animals, pets",0.68355644
+dog_barking_98.wav,Dog,0.37203708
+cat_21.wav,Animal,0.3554083
+cat_103.wav,Animal,0.12977867
+cat_153.wav,Animal,0.54403776
+cat_165.wav,Speech,0.3087298
+cat_70.wav,Animal,0.32675898
+dog_barking_33.wav,Animal,0.32335094
+dog_barking_32.wav,Animal,0.44499364
+cat_100.wav,Animal,0.47063786
+dog_barking_2.wav,Animal,0.86297506
+dog_barking_17.wav,Animal,0.9962504
+cat_13.wav,Speech,0.21153417
+cat_63.wav,Animal,0.39981368
+cat_11.wav,Speech,0.109438956
+cat_109.wav,Speech,0.28038788
+dog_barking_6.wav,"Domestic animals, pets",0.83177745
+dog_barking_88.wav,Animal,0.9382637
+cat_130.wav,Animal,0.59996897
+cat_136.wav,Cat,0.33884546
+cat_150.wav,Animal,0.6724969
+dog_barking_101.wav,Animal,0.7845996
+cat_139.wav,"Crying, sobbing",0.23680511
+dog_barking_15.wav,Animal,0.9504746
+cat_69.wav,Silence,0.36136457
+dog_barking_94.wav,Animal,0.8277005
+cat_72.wav,Animal,0.79990864
+cat_156.wav,"Crying, sobbing",0.4519221
+dog_barking_13.wav,Animal,0.9842619
+cat_28.wav,Animal,0.29988408
+cat_120.wav,Animal,0.4808988
+dog_barking_60.wav,Animal,0.9147979
+cat_19.wav,Animal,0.5782093
+cat_128.wav,"Crying, sobbing",0.18811527
+dog_barking_85.wav,Chant,0.25650892
+dog_barking_27.wav,Animal,0.99353504
+cat_141.wav,Animal,0.8837595
+cat_67.wav,Cat,0.9869623
+cat_68.wav,Cat,0.2586459
+cat_93.wav,"Domestic animals, pets",0.61618096
+dog_barking_42.wav,Dog,0.29661337
+cat_86.wav,Animal,0.3872154
+cat_142.wav,Animal,0.54109913
+cat_10.wav,"Crying, sobbing",0.37324053
+dog_barking_9.wav,Animal,0.987315
+dog_barking_1.wav,Animal,0.84646624
+dog_barking_93.wav,Animal,0.6366914
+dog_barking_66.wav,Animal,0.7884782
+dog_barking_52.wav,Dog,0.21963973
+dog_barking_34.wav,Animal,0.71783817
+cat_36.wav,Animal,0.29431048
+cat_91.wav,"Wail, moan",0.29880098
+cat_45.wav,Speech,0.3156378
+dog_barking_72.wav,Animal,0.8534264
+cat_38.wav,Animal,0.14886408
+cat_88.wav,"Domestic animals, pets",0.7978415
+cat_119.wav,Cat,0.12796701
+cat_167.wav,Speech,0.33431074
+cat_76.wav,"Domestic animals, pets",0.5380737
+cat_42.wav,Animal,0.3915168
+cat_116.wav,Cat,0.17881364
+cat_20.wav,Animal,0.7117881
+cat_56.wav,Screaming,0.68894506
+cat_158.wav,Animal,0.32320678
+cat_96.wav,Animal,0.15298842
+dog_barking_18.wav,Animal,0.30047384
+dog_barking_45.wav,Chant,0.44247502
+dog_barking_7.wav,Animal,0.490339
+cat_106.wav,Animal,0.2830584
+dog_barking_56.wav,Dog,0.72309786
+dog_barking_25.wav,Music,0.61906064
+cat_157.wav,Animal,0.3035835
+cat_6.wav,Cat,0.9161911
+cat_73.wav,Animal,0.7540259
+cat_4.wav,Cat,0.8600266
+cat_160.wav,Animal,0.21333319
+cat_25.wav,Animal,0.3062641
+dog_barking_4.wav,Animal,0.93497515
+dog_barking_12.wav,Animal,0.6502326
+dog_barking_92.wav,"Domestic animals, pets",0.8563542
+cat_17.wav,Alarm,0.497196
+dog_barking_46.wav,Chant,0.3751124
+dog_barking_89.wav,Dog,0.6365455
+cat_159.wav,"Inside, small room",0.16315737
+dog_barking_70.wav,Whimper,0.25213218
+cat_3.wav,"Inside, small room",0.22935568
+cat_162.wav,Animal,0.54629326
+cat_26.wav,Animal,0.28895873
+cat_61.wav,"Domestic animals, pets",0.25766733
+cat_54.wav,Screaming,0.36416024
+dog_barking_59.wav,Dog,0.311397
+cat_24.wav,Vehicle,0.3928554
+cat_51.wav,Water,0.1304092
+cat_98.wav,Speech,0.2994813
+dog_barking_3.wav,Dog,0.51175874
+dog_barking_28.wav,Animal,0.8583507
+cat_127.wav,Animal,0.20327057
+cat_87.wav,Animal,0.53933394
+cat_22.wav,Animal,0.6138371
+dog_barking_21.wav,"Domestic animals, pets",0.24834125
+dog_barking_10.wav,Animal,0.99079335
+cat_125.wav,Animal,0.65672255
+dog_barking_100.wav,Cat,0.2270912
+cat_149.wav,Animal,0.46544236
+cat_107.wav,Animal,0.49445415
+dog_barking_63.wav,Animal,0.5811119
+dog_barking_58.wav,Animal,0.40856284
+dog_barking_78.wav,Howl,0.30763593
+cat_7.wav,"Domestic animals, pets",0.93713737
+cat_41.wav,Skateboard,0.18368529
+cat_131.wav,Animal,0.36536077
+dog_barking_41.wav,Animal,0.3090256
+dog_barking_53.wav,Chant,0.23836686
+dog_barking_106.wav,Animal,0.8429178
+dog_barking_82.wav,"Domestic animals, pets",0.53233176
+cat_58.wav,Cat,0.6084278
+cat_5.wav,Animal,0.7554634
+cat_123.wav,Music,0.8698277
+cat_99.wav,Speech,0.14344037
+dog_barking_16.wav,"Domestic animals, pets",0.66930425
+dog_barking_84.wav,Animal,0.89522064
+dog_barking_97.wav,Animal,0.9041816
+dog_barking_47.wav,Chant,0.28452346
+cat_163.wav,Animal,0.6331772
+cat_23.wav,Animal,0.48625
+dog_barking_48.wav,Animal,0.53099614
+dog_barking_71.wav,Chant,0.32960418
+cat_34.wav,Animal,0.48687002
+cat_64.wav,Animal,0.6789551
+cat_144.wav,Silence,0.102993384
+cat_151.wav,Speech,0.2758559
+cat_140.wav,"Crying, sobbing",0.37449998
+cat_66.wav,"Crying, sobbing",0.4606065
+dog_barking_79.wav,Animal,0.54781073
+dog_barking_26.wav,"Domestic animals, pets",0.86183095
+cat_53.wav,Speech,0.12197912
+cat_134.wav,Cat,0.48238543
+cat_143.wav,Animal,0.5732101
+cat_35.wav,Animal,0.37179774
+cat_49.wav,Animal,0.36059132
+dog_barking_91.wav,Dog,0.842974
+cat_37.wav,Cat,0.34424177
+dog_barking_90.wav,Dog,0.78405875
+cat_1.wav,"Inside, small room",0.3125292
+cat_33.wav,Animal,0.47892317
+dog_barking_81.wav,Animal,0.6414305
+dog_barking_110.wav,Dog,0.6001825
+cat_152.wav,Animal,0.6233813
+cat_133.wav,"Domestic animals, pets",0.17080465
+cat_94.wav,Animal,0.3782148
+cat_148.wav,Animal,0.34632102
+cat_44.wav,Animal,0.12097921
+cat_78.wav,"Crying, sobbing",0.24195468
+cat_135.wav,Speech,0.39766204
+cat_77.wav,Animal,0.21456738
+dog_barking_73.wav,Animal,0.9936369
+dog_barking_80.wav,Dog,0.7493034
+cat_75.wav,Cat,0.14066869
+dog_barking_36.wav,Yodeling,0.21589433
+dog_barking_5.wav,Animal,0.966057
+dog_barking_103.wav,Dog,0.6931325
+dog_barking_14.wav,Animal,0.9504746
+cat_126.wav,Animal,0.26776698
+cat_166.wav,Speech,0.30863693
+dog_barking_74.wav,Animal,0.6721701
+cat_118.wav,Animal,0.17273478
+cat_57.wav,Cat,0.4424465
+dog_barking_55.wav,Dog,0.55789787
+cat_137.wav,"Crying, sobbing",0.28571483
+dog_barking_62.wav,Animal,0.61498415
+cat_48.wav,Animal,0.6867521
+cat_113.wav,Speech,0.25189713
+cat_29.wav,Animal,0.35359004
+cat_9.wav,Speech,0.16659148
+dog_barking_24.wav,Animal,0.8458474
+dog_barking_109.wav,Hum,0.15040396
+cat_31.wav,Animal,0.6861252
+cat_132.wav,Animal,0.16306095
+cat_108.wav,Animal,0.5815983
+cat_15.wav,Cat,0.4995351
+cat_27.wav,"Domestic animals, pets",0.4145428
+dog_barking_51.wav,Chant,0.51327175
+dog_barking_0.wav,"Domestic animals, pets",0.8928328
+cat_46.wav,Animal,0.7644965
+cat_59.wav,"Domestic animals, pets",0.6145907
+dog_barking_38.wav,Dog,0.5654068
+cat_110.wav,Cat,0.8648287
+cat_161.wav,Animal,0.6587788
+cat_79.wav,Silence,0.38565356
+cat_146.wav,Cat,0.28307906
+dog_barking_75.wav,Animal,0.7836813
+dog_barking_76.wav,Dog,0.7683711
+dog_barking_44.wav,Chant,0.27968264
+dog_barking_77.wav,Dog,0.4579296
+cat_164.wav,"Inside, small room",0.15228412
+dog_barking_19.wav,Animal,0.83051777
+cat_121.wav,Cat,0.30911458
+cat_112.wav,Cat,0.20422076
+dog_barking_37.wav,Animal,0.23224418
+dog_barking_49.wav,Animal,0.26427278
+dog_barking_22.wav,"Domestic animals, pets",0.7558272
+cat_60.wav,Speech,0.2245814
+cat_90.wav,Speech,0.23130545
+cat_122.wav,Animal,0.29899094
+dog_barking_67.wav,Animal,0.5838412
+cat_101.wav,"Inside, small room",0.14874808
+dog_barking_95.wav,Animal,0.9686279
+dog_barking_23.wav,Animal,0.8610036
+cat_80.wav,Speech,0.43475533
+cat_115.wav,Animal,0.20139742
+dog_barking_68.wav,Dog,0.51863617
+cat_95.wav,Animal,0.14293782
+cat_40.wav,Animal,0.3808581
+cat_8.wav,Animal,0.5952552
+dog_barking_86.wav,Dog,0.45846322
+dog_barking_108.wav,Crunch,0.3116305
+dog_barking_61.wav,Animal,0.72473073
+cat_71.wav,Animal,0.45906025
+cat_81.wav,Speech,0.46980873
+cat_155.wav,Animal,0.6628437
+dog_barking_39.wav,"Domestic animals, pets",0.7895529
+dog_barking_43.wav,Chant,0.34979653
+dog_barking_31.wav,"Domestic animals, pets",0.42716396
+cat_39.wav,Animal,0.61874384
+dog_barking_40.wav,Dog,0.34538653
+cat_85.wav,Animal,0.5791739
+cat_14.wav,Animal,0.39531577
+cat_147.wav,Animal,0.17997901
+cat_16.wav,Cat,0.6648536
+dog_barking_20.wav,Animal,0.8050448
+cat_102.wav,Lullaby,0.13859302
+dog_barking_104.wav,Animal,0.6441967
+dog_barking_87.wav,Animal,0.87189513
+dog_barking_112.wav,Animal,0.75297046
+cat_92.wav,Speech,0.20195743
+dog_barking_8.wav,"Domestic animals, pets",0.3579618
+dog_barking_65.wav,Animal,0.78090495
+cat_62.wav,Animal,0.43874887
+cat_154.wav,Animal,0.2568581
+dog_barking_54.wav,Animal,0.5960098
+cat_117.wav,Animal,0.20585985
+cat_82.wav,Speech,0.47323063
+cat_114.wav,Animal,0.2506519
+dog_barking_57.wav,Dog,0.89817923
+cat_2.wav,"Inside, small room",0.35317776
+dog_barking_64.wav,Dog,0.6439084
+dog_barking_111.wav,Animal,0.7405102
+cat_12.wav,Speech,0.18303467
+cat_105.wav,Speech,0.28788164
+cat_30.wav,Animal,0.34726772
+cat_18.wav,Cat,0.656098
+dog_barking_107.wav,Vehicle,0.28282347
+cat_65.wav,Animal,0.5707956
+dog_barking_69.wav,Dog,0.39117172
+dog_barking_105.wav,Animal,0.9943309
+dog_barking_11.wav,Speech,0.46384114
+cat_138.wav,Animal,0.50298154
+cat_32.wav,Speech,0.21727213
+cat_97.wav,Speech,0.4251764
+cat_50.wav,Cat,0.24139269
+dog_barking_96.wav,Animal,0.53580666
+cat_55.wav,Screaming,0.32909626
+dog_barking_99.wav,Animal,0.99024755
+dog_barking_35.wav,Animal,0.74301314
