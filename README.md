@@ -87,3 +87,24 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 *Results* : The neural network achieved a ROC-AUC metric score of 53% . It classified 68 patients potential detect pulmonary diseases.
 
 
+
+
+# Business / Retail
+
+
+
+# Risk Modelling
+
+
+
+# Fraud Detection
+
+
+
+# Natural Language Processing (NLP)
+
+
+
+# Computer Vision (Open CV)
+
+
