@@ -88,6 +88,31 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
+# BigQuery ML Google Cloud Platform 
+
+
+7. [Titanic](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/BigQuery%20GCP)
+
+
+
+# Health
+
+
+8. [Child Mind Institute Problematic Internet Use](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Child%20Mind%20Institute%20Problematic%20Internet%20Use)
+
+
+*Descriptions* : The project aims to analyzes children's physical activity and fitness data to identify early signs of problematic internet use . 
+
+*Technologies Used* : The notebook uses Neural Network.
+
+*Results* : The neural network achieved a Cohen Kappa metric score of 99% . It classified 687 as none, 190 as mild, 101 as moderate, 11 as severe.
+
+
+
+9. 
+
+
+
 
 # Business / Retail
 
@@ -98,9 +123,6 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 # Fraud Detection
-
-
-# Health
 
 
 
