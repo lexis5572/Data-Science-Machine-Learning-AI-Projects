@@ -49,7 +49,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-4. [Environmental Sounds](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Environmental-Sounds-Audio
+4. [Environmental Sounds](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Environmental-Sounds-Audio)
 
 
 *Descriptions* : The project aims to analyze the given sound data and classify it as either real or fake environmental audio.
