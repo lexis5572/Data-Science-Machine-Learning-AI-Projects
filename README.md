@@ -180,7 +180,4 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-# Computer Vision (Open CV)
-
-
 # Artificial Intelligence (AI)
