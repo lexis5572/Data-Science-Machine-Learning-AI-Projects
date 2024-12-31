@@ -136,8 +136,15 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-11. [CIBMTR - Equity in post-HCT Survival Predictions]()
+11. [CIBMTR - Equity in post-HCT Survival Predictions](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/CIBMTR%20-%20Equity%20in%20post-HCT%20Survival%20Predictions)
 
+
+
+*Descriptions* : The project aims to predict of transplant survival rates for patients undergoing allogeneic Hematopoietic Cell Transplantation (HCT).
+
+*Technologies Used* : The notebook use Neural Network Model.
+
+*Results* : The xgboost achieved a Accuracy metric score of 89% . It's classified 3039 patients were classified as survived (efs = 1) and 1436 patients were classified as not survived (efs = 0).
 
 
 
