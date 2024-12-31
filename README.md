@@ -144,7 +144,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 *Technologies Used* : The notebook use Neural Network Model.
 
-*Results* : The xgboost achieved a Accuracy metric score of 89% . It's classified 3039 patients were classified as survived (efs = 1) and 1436 patients were classified as not survived (efs = 0).
+*Results* : The neural network achieved a Concordance Index (C-index) metric score of 64% . It's classified 3039 patients were classified as survived (efs = 1) and 1436 patients were classified as not survived (efs = 0).
 
 
 
