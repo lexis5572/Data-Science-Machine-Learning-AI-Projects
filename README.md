@@ -184,7 +184,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 *Technologies Used* : The notebook uses model Random Forest Regressor.
 
-*Results* : The neural network achieved a Weighted Mean Absolute Error (WMAE) metric score of 27% . 
+*Results* : The Random Forest Regressor achieved a Weighted Mean Absolute Error (WMAE) metric score of 27% . 
 
 
 
