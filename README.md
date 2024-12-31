@@ -146,6 +146,10 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 [Resnet50 Model](https://www.kaggle.com/models/tensorflow/resnet-50/TensorFlow2/classification/1)
 
 
+
+# Projects
+
+
 11. [RSNA 2024 Lumbar Spine Degenerative Classification](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/RSNA%202024%20Lumbar%20Spine%20Degenerative%20Classification)
 
 
