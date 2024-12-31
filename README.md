@@ -136,6 +136,11 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
+11. [CIBMTR - Equity in post-HCT Survival Predictions]()
+
+
+
+
 
 # Computer Vision (OpenCV)
 
@@ -150,7 +155,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 # Projects
 
 
-11. [RSNA 2024 Lumbar Spine Degenerative Classification](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/RSNA%202024%20Lumbar%20Spine%20Degenerative%20Classification)
+12. [RSNA 2024 Lumbar Spine Degenerative Classification](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/RSNA%202024%20Lumbar%20Spine%20Degenerative%20Classification)
 
 
 
