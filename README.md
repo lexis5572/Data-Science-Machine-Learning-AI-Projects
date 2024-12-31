@@ -103,13 +103,59 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 *Descriptions* : The project aims to analyzes children's physical activity and fitness data to identify early signs of problematic internet use.
 
-*Technologies Used* : The notebook uses Neural Network.
+*Technologies Used* : The notebook use Neural Network.
 
 *Results* : The neural network achieved a Cohen Kappa metric score of 99% . It classified 687 as none, 190 as mild, 101 as moderate, 11 as severe.
 
 
 
-9. [RSNA 2024 Lumbar Spine Degenerative Classification]()
+
+9. [Binary Prediction of Smoker Status using Bio-Signals](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals)
+
+
+
+*Descriptions* : The project aims to predict a patient's smoking status.
+
+*Technologies Used* : The notebook use Neural Network.
+
+*Results* : The neural network achieved a ROC AUC metric score of 85% . It's classified 16,329 as non smoking and 14,146 as smoking status.
+
+
+
+
+
+10.  [Multi-Class Prediction of Obesity Risk](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Multi-Class%20Prediction%20of%20Obesity%20Risk)
+
+
+
+*Descriptions* : The project aims to predict obesity risk in individuals, which is related to cardiovascular disease.
+
+*Technologies Used* : The notebook use Xgboost Model.
+
+*Results* : The xgboost achieved a Accuracy metric score of 89% . It's classified status Obesity_Type_III and Obesity_Type_II represent varying levels of obesity severity, which are directly linked to increased cardiovascular risk.
+
+
+
+
+# Computer Vision (OpenCV)
+
+
+# Tools :
+
+
+[Resnet50 Model](https://www.kaggle.com/models/tensorflow/resnet-50/TensorFlow2/classification/1)
+
+
+11. [RSNA 2024 Lumbar Spine Degenerative Classification](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/RSNA%202024%20Lumbar%20Spine%20Degenerative%20Classification)
+
+
+
+*Descriptions* : The project aims to identify medical conditions affecting the lumbar spine in MRI scans.
+
+*Technologies Used* : The notebook uses model resnet50 to classify confident score & training data image using Neural Network.
+
+*Results* : The neural network achieved a Logloss metric score of 19% . 
+
 
 
 
