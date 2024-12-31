@@ -177,7 +177,14 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 # Business / Retail
 
 
-16. []()
+16. [Rohlik Sales Forecasting Challenge](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Rohlik%20Sales%20Forecasting%20Challenge)
+
+
+*Descriptions* : The project aims to predict the sales of each selected warehouse inventory for next 14 days using historical sales data.
+
+*Technologies Used* : The notebook uses model Random Forest Regressor.
+
+*Results* : The neural network achieved a Weighted Mean Absolute Error (WMAE) metric score of 27% . 
 
 
 
