@@ -148,6 +148,16 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
+12. [Child Mind Institute - Detect Sleep States](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Child%20Mind%20Institute%20-%20Detect%20Sleep%20States)
+    
+
+*Descriptions* : The project aims to detect sleep onset and wake.
+
+*Technologies Used* : The notebook use XGBoost Model.
+
+*Results* : The XGBoost achieved a Average Precision metric score of 87% . It's classified sleep onset was detected 46.4% of the time, while wake states were detected 53.6% of the time.
+
+
 
 # Computer Vision (OpenCV)
 
@@ -162,7 +172,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 # Projects
 
 
-12. [RSNA 2024 Lumbar Spine Degenerative Classification](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/RSNA%202024%20Lumbar%20Spine%20Degenerative%20Classification)
+13. [RSNA 2024 Lumbar Spine Degenerative Classification](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/RSNA%202024%20Lumbar%20Spine%20Degenerative%20Classification)
 
 
 
@@ -177,7 +187,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 # Business / Retail
 
 
-16. [Rohlik Sales Forecasting Challenge](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Rohlik%20Sales%20Forecasting%20Challenge)
+17. [Rohlik Sales Forecasting Challenge](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Rohlik%20Sales%20Forecasting%20Challenge)
 
 
 *Descriptions* : The project aims to predict the sales of each selected warehouse inventory for next 14 days using historical sales data.
@@ -185,6 +195,32 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 *Technologies Used* : The notebook uses model Random Forest Regressor.
 
 *Results* : The Random Forest Regressor achieved a Weighted Mean Absolute Error (WMAE) metric score of 27% . 
+
+
+
+18. [Regression with an Insurance Dataset](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Regression%20with%20an%20Insurance%20Dataset)
+
+
+*Descriptions* : The project aims to predict insurance premiums based on various factor.
+
+*Technologies Used* : The notebook uses model XGBoost.
+
+*Results* : The XGBoost achieved a RMSLE metric score of 1.16 % . 
+
+
+
+19. [Forecasting Sticker Sales](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Forecasting%20Sticker%20Sales)
+
+
+*Descriptions* : The project aims to forecast sticker sales in different countries.
+
+*Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
+
+*Results* : The XGBoost achieved a MAPE metric score of 19 % . 
+
+
+
+20. []()
 
 
 
