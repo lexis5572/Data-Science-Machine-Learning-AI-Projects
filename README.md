@@ -220,16 +220,56 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-20. []()
+20. [Exploring Mental Health Data](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Exploring%20Mental%20Health%20Data)
 
+
+*Descriptions* : The project aims to explore mental health survey for an individual.
+
+*Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
+
+*Results* : The XGBoost achieved a Accuracy metric score of 91 % . 
 
 
 
 # Risk Modelling
 
 
+21. [Home Credit - Credit Risk Model Stability](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Home%20Credit%20-%20Credit%20Risk%20Model%20Stability)
+
+
+*Descriptions* : The project aims to predicted clients to default on their loans.
+
+*Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
+
+*Results* : The XGBoost achieved a Gini metric score of 14 % . It's classified that clients predicted to default on their loans 0% .
+
+
+
+
+22. [Loan Approval Prediction](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Loan%20Approval%20Prediction)
+
+
+*Descriptions* : The project aims to predicted applicant approved for a loan.
+
+*Technologies Used* : The notebook uses model Neural Network with Kfold Validation.
+
+*Results* : The Neural Network achieved a ROC-AUC metric score of 92 % . It classified applicants approved for a loan is 89.07%
+
+
+ 
 
 # Fraud Detection
+
+
+ 23. [IEEE-CIS Fraud Detection](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/IEEE-CIS%20Fraud%20Detection)
+
+
+
+*Descriptions* : The project aims to detect fraud from customer transactions.
+
+*Technologies Used* : The notebook uses model Neural Network with Kfold Validation.
+
+*Results* : The Neural Network achieved a ROC-AUC metric score of 99 % . It classified transactions predicted as fraudulent is 2.57% .
 
 
 
