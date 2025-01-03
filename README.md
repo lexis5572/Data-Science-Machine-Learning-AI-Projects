@@ -231,10 +231,57 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
+21. [Santander Customer Transaction Prediction](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Santander%20Customer%20Transaction%20Prediction)
+
+
+*Descriptions* : The project aims to identify which customer making transactions.
+
+*Technologies Used* : The notebook uses model Neural Network with Kfold Validation.
+
+*Results* : The Neural Network achieved a Accuracy metric score of 100 % . 
+
+
+
+22. [Regression of Used Car Prices](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Regression%20of%20Used%20Car%20Prices)
+
+
+
+*Descriptions* : The project aims to identify which customer making transactions.
+
+*Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
+
+*Results* : The XGBoost achieved a RMSE metric score of 23599. 
+
+
+
+
+23. [Predict CO2 Emissions in Rwanda](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Predict%20CO2%20Emissions%20in%20Rwanda)
+
+
+
+*Descriptions* : The project aims to identify which customer making transactions.
+
+*Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
+
+*Results* : The XGBoost achieved a RMSE metric score of 15 
+
+
+
+24. [Enefit - Predict Energy Behavior of Prosumers](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Enefit%20-%20Predict%20Energy%20Behavior%20of%20Prosumers)
+
+
+*Descriptions* : The project aims to predict CO2 emissions in Rwanda.
+
+*Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
+
+*Results* : The XGBoost achieved a RMSE metric score of 15 
+
+
+
 # Risk Modelling
 
 
-21. [Home Credit - Credit Risk Model Stability](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Home%20Credit%20-%20Credit%20Risk%20Model%20Stability)
+26. [Home Credit - Credit Risk Model Stability](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Home%20Credit%20-%20Credit%20Risk%20Model%20Stability)
 
 
 *Descriptions* : The project aims to predicted clients to default on their loans.
@@ -246,7 +293,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-22. [Loan Approval Prediction](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Loan%20Approval%20Prediction)
+27. [Loan Approval Prediction](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Loan%20Approval%20Prediction)
 
 
 *Descriptions* : The project aims to predicted applicant approved for a loan.
@@ -261,7 +308,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 # Fraud Detection
 
 
- 23. [IEEE-CIS Fraud Detection](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/IEEE-CIS%20Fraud%20Detection)
+ 28. [IEEE-CIS Fraud Detection](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/IEEE-CIS%20Fraud%20Detection)
 
 
 
@@ -274,6 +321,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 # Natural Language Processing (NLP)
+
 
 
 
