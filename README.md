@@ -246,7 +246,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-*Descriptions* : The project aims to identify which customer making transactions.
+*Descriptions* : The project aims to predict the price of used cars based on various attributes.
 
 *Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
 
@@ -259,7 +259,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-*Descriptions* : The project aims to identify which customer making transactions.
+*Descriptions* : The project aims to predict CO2 emissions in Rwanda.
 
 *Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
 
@@ -270,7 +270,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 24. [Enefit - Predict Energy Behavior of Prosumers](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/Enefit%20-%20Predict%20Energy%20Behavior%20of%20Prosumers)
 
 
-*Descriptions* : The project aims to predict CO2 emissions in Rwanda.
+*Descriptions* : The project aims to predict the potential reduction in energy imbalance .
 
 *Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
 
