@@ -263,7 +263,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 *Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
 
-*Results* : The XGBoost achieved a RMSE metric score of 15 
+*Results* : The XGBoost achieved a RMSE metric score of 15. 
 
 
 
@@ -274,7 +274,7 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 *Technologies Used* : The notebook uses model XGBoost with Kfold Validation.
 
-*Results* : The XGBoost achieved a RMSE metric score of 15 
+*Results* : The XGBoost achieved a MAE metric score of 116 . It classified the potential reduction in energy imbalance costs is $36,480.
 
 
 
