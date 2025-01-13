@@ -320,15 +320,12 @@ The audio classification implementation leverages Google's YAMNet, a deep learni
 
 
 
-
-# Looker Studio Visualization Dashboard
-
-
-
-
-# Natural Language Processing (NLP)
-
-
-
-
 # Artificial Intelligence (AI)
+
+
+
+30. [LLM & OPEN AI](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/tree/main/LLM-OPENAI-PROJECT)
+
+
+
+31.  [GEMINI RAG](https://github.com/lexis5572/Data-Science-Machine-Learning-AI-Projects/blob/main/LLM-OPENAI-PROJECT/RAG_Malay_To_English_Part_1.ipynb)
